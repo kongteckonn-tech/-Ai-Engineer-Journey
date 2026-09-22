@@ -16,3 +16,7 @@ My journey from Software Engineering student to AI Engineer.
 - Stage 9 — Portfolio
 
 This is my feature branch.
+
+## Git Branch & Pull Request
+
+Learning how to use branches and pull requests.
